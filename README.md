@@ -5,10 +5,9 @@ Easily
 
 ### ScreenShot
 
-<img src="https://github.com/rakibkhan555/Rakib-khan/blob/main/Picsart_22-08-25_00-53-34-977.jpg
+<img src="https://github.com/rakibkhan555/Rakib-khan/main/Picsart_22-08-25_00-53-34-977.jpg
 
 ### Termux Commands
-
 
 * `apt update`
 
