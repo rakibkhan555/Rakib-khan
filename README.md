@@ -1,4 +1,4 @@
-# FB-TARGET
+7# FB-TARGET
 
 Hack/Crack Your Target Facebook Account With This tool.
 Easily 
@@ -21,7 +21,7 @@ Easily
 
 * `pkg install git`
 
-* `git clone https://github.com/rakibkhan555/Rakib-khan'
+* git clone https://github.com/rakibkhan555/Rakib-khan'
 
 * `cd Rakib-khan'
 
