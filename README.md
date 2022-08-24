@@ -21,11 +21,11 @@ Easily
 
 * `pkg install git`
 
-* `git clone https://github.com/rakibkhan555/Rakib-khan`
+* `git clone https://github.com/rakibkhan555/rakib-khan`
 
 * `cd Rakib-khan`
 
-* `python2 Rakib-khan.py`
+* `python2 rakib-khan.py`
 
 ### For Wordlist Making Tool
 
