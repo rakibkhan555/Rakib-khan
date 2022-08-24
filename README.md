@@ -21,11 +21,11 @@ Easily
 
 * `pkg install git`
 
-* `git clone http://github.com/nfs-tech-bd/FB-TARGET`
+* `git clone https://github.com/rakibkhan555/Rakib-khan'
 
-* `cd FB-TARGET`
+* `cd Rakib-khan'
 
-* `python2 FB-TARGET.py`
+* `python2 Rakib-khan.py`
 
 ### For Wordlist Making Tool
 
