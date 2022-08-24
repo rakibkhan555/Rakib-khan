@@ -21,9 +21,9 @@ Easily
 
 * `pkg install git`
 
-* git clone https://github.com/rakibkhan555/Rakib-khan'
+* `git clone https://github.com/rakibkhan555/Rakib-khan`
 
-* `cd Rakib-khan'
+* `cd Rakib-khan`
 
 * `python2 Rakib-khan.py`
 
